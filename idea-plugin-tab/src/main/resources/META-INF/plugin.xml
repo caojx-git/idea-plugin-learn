@@ -1,0 +1,31 @@
+<idea-plugin>
+    <id>org.example.idea-plugin-tab</id>
+    <name>tab</name>
+    <vendor email="caojx_wy@163.com" url="">caojx</vendor>
+
+
+    <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+
+        <!--数据持久化 在创建好数据设置类以后，则需要使用 applicationService 标签把你的类配置到 plugin.xml 中 extensions 里面-->
+        <applicationService serviceImplementation="com.caojx.learn.idea.plugin.infrastructure.PersistentDataService"/>
+
+        <!--配置显示窗体-->
+        <toolWindow id="XUtil" anchor="bottom" factoryClass="com.caojx.learn.idea.plugin.factory.TabFactory" canCloseContents="true" icon="/icons/stock.png"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

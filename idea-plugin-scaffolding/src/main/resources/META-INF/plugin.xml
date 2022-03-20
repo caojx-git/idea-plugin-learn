@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>caojx.learn.idea.plugin.idea-plugin-scaffolding</id>
+    <name>scaffolding</name>
+    <vendor email="caojx_wy@163.com" url="">caojx</vendor>
+
+    <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <!--数据持久化-->
+        <applicationService serviceImplementation="com.caojx.learn.idea.plugin.infrastructure.PersistentDataService"/>
+        <projectTemplatesFactory implementation="com.caojx.learn.idea.plugin.factory.TemplateFactory"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

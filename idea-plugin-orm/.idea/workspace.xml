@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8f0e027-09b0-4f59-9b0d-278edaaa6abc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-orm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-orm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-orm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Action" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26bWRb1Y5rVpGYefOlvA0fpjlOV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/template.domain.orm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/template/domain.orm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/template.domain.orm" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.caojx.learn.idea.plugin.infrastructure.po" />
+      <recent name="com.caojx.learn.idea.plugin.domain.service" />
+      <recent name="com.caojx.learn.idea.plugin.infrastructure.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.caojx.learn.idea.plugin.domain.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.idea-plugin-orm [clean]">
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-orm [build] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-orm [build] (3)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-orm [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-orm [clean] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-orm [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.idea-plugin-orm [build] (1)" />
+        <item itemvalue="Gradle.idea-plugin-orm [clean]" />
+        <item itemvalue="Gradle.idea-plugin-orm [build]" />
+        <item itemvalue="Gradle.idea-plugin-orm [clean] (1)" />
+        <item itemvalue="Gradle.idea-plugin-orm [build] (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8f0e027-09b0-4f59-9b0d-278edaaa6abc" name="Default Changelist" comment="" />
+      <created>1647692758320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647692758320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647742429743">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647742429743" />
+    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1647698456729">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647698456729" />
+    <state x="398" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1647697976353">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="398" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647697976353" />
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647698587728">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647698587728" />
+    <state x="536" y="127" key="#xdebugger.evaluate" timestamp="1647742991917">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="536" y="127" key="#xdebugger.evaluate/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647742991917" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1647772341351">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772341351" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1647700771811" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1647772341350">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772341350" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1647700771810" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1647772341349">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772341349" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1647700771810" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1647772341350">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772341350" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1647700771811" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1647743104726">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647743104726" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1647700771807" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center" timestamp="1647743104725">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647743104725" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1647700771807" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left" timestamp="1647743104725">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647743104725" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1647700771806" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right" timestamp="1647743104726">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647743104726" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1647700771807" />
+    <state x="385" y="77" width="670" height="676" key="search.everywhere.popup" timestamp="1647700362589">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="385" y="77" width="670" height="676" key="search.everywhere.popup/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647700362589" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/ui/ORMSettingsUI.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/ui/ORMSettingsUI.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/domain/service/impl/ProjectGeneratorImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/domain/service/impl/ProjectGeneratorImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/domain/service/impl/ProjectGeneratorImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

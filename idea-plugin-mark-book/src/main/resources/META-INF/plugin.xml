@@ -1,0 +1,33 @@
+<idea-plugin>
+    <id>com.caojx.learn.idea-plugin-mark-book</id>
+    <name>MarkBook</name>
+    <vendor email="caojx_wy@163.com" url="">caojx</vendor>
+
+    <description><![CDATA[
+    这是一款可以帮助程序在阅读代码是添加笔记,并将笔记生成文档的插件。<br>
+      <em>MarkDown文档</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <!--配置加载toolWindow扩展内容
+        参考：https://plugins.jetbrains.com/docs/intellij/tool-windows.html#declarative-setup
+        -->
+<!--        <toolWindow id="noteWindow" factoryClass="NoteListWindowFactory" anchor="right" icon="/img/note_mb.svg"></toolWindow>-->
+        <toolWindow id="noteWindow" factoryClass="com.caojx.learn.idea.plugin.markbook.window.NoteListWindowFactory" anchor="right"></toolWindow>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <!--添加一个右键点击之后的子菜单-->
+        <action id="MB_PopupAction" class="com.caojx.learn.idea.plugin.markbook.action.PopupAction" text="添加MB笔记"
+                description="添加MB笔记的子菜单">
+            <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl P"/>
+        </action>
+    </actions>
+</idea-plugin>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffcf451-7b6e-454f-abf5-af78bbc11fae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Action" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="26duS41Qzv3xDIeL6EFrypHzPde" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="idea-plugin-action" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="idea-plugin-action" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffcf451-7b6e-454f-abf5-af78bbc11fae" name="Default Changelist" comment="" />
+      <created>1647765780657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647765780657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1647766792050">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792050" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1647766792048">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792048" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1647766792046">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792046" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1647766792049">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792049" />
+    <state width="1398" height="207" key="GridCell.Tab.1.bottom" timestamp="1647766792051">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.1.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792051" />
+    <state width="1398" height="207" key="GridCell.Tab.1.center" timestamp="1647766792051">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.1.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792051" />
+    <state width="1398" height="207" key="GridCell.Tab.1.left" timestamp="1647766792050">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.1.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792050" />
+    <state width="1398" height="207" key="GridCell.Tab.1.right" timestamp="1647766792051">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.1.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766792051" />
+    <state x="97" y="37" key="new project wizard" timestamp="1647766106674">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="97" y="37" key="new project wizard/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647766106674" />
+  </component>
+</project>

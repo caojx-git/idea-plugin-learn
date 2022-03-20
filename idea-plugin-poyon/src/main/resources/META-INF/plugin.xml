@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>com.caojx.learn.idea-plugin-poyon</id>
+    <name>毒鸡汤</name>
+    <vendor email="caojx_wy@163.com" url="">caojx</vendor>
+
+    <description><![CDATA[
+   小试牛刀，毒鸡汤插件， 小试牛刀，毒鸡汤插件， 小试牛刀，毒鸡汤插件， 小试牛刀，毒鸡汤插件
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+    <application-components>
+        <component>
+            <implementation-class>com.caojx.learn.idea.plugin.component.MyApplicationComponent</implementation-class>
+        </component>
+    </application-components>
+</idea-plugin>

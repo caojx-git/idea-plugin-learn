@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+//    默认的版本，如下调整为0.6.3 因为默认的版本有点高
+    id 'org.jetbrains.intellij' version '0.6.3'
+}
+
+group 'com.caojx.plugin'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.freemarker:freemarker:2.3.31'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.3.5'
+}
+patchPluginXml {
+    changeNotes """
+        第一版，包含笔记添加和文档生成的主体功能<br>
+      <em>仅支持生成Markdown形式笔记。</em>
+     插件开发学习功能点<br>
+        <em>1.如何添加一个右键点击之后的子菜单
+        <em>2.如何获取编辑器中已经选中的文本</em>
+        <em>3.如何弹出对话，获取用户编辑的笔记内容</em>
+        <em>4.如何使用ToolWindow展示笔记列表</em>
+        <em>5.如何在ToolWindow中添加表格</em>
+        <em>6.如何让用户选择文档生成的目录</em>
+        <em>7.如何将笔记列表静态化生成文档</em>
+      """
+}

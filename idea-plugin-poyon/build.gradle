@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.6.3'
+}
+
+group 'com.caojx.learn'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework:spring-beans:5.3.16'
+    implementation 'org.springframework:spring-core:5.3.16'
+    implementation 'org.springframework:spring-web:5.3.16'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.3.5'
+    plugins 'java'
+}
+patchPluginXml {
+    changeNotes """
+    怎么抓住idea启动的这个时间点？
+    如何显示一个对话框？
+    怎么添加按钮的点击事件？
+    毒鸡汤内容的来源？
+"""
+}

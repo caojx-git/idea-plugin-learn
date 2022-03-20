@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e667b0e-10f2-4e04-b90b-421b7c48474a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-tab" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26QR6h7c63jZKF0M9EvFT3E7zZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/ui" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.caojx.learn.idea.plugin.domain.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.idea-plugin-tab [clean]">
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-tab [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.idea-plugin-tab [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e667b0e-10f2-4e04-b90b-421b7c48474a" name="Default Changelist" comment="" />
+      <created>1647353649940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647353649940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1647402735289">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647402735289" />
+    <state x="457" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1647406461202">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="457" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647406461202" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1647772437791">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772437791" />
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921368" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1647772437790">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772437790" />
+    <state width="1398" height="257" key="GridCell.Tab.0.center/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921367" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1647772437789">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772437789" />
+    <state width="1398" height="257" key="GridCell.Tab.0.left/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921366" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1647772437790">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772437790" />
+    <state width="1398" height="257" key="GridCell.Tab.0.right/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921367" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1647680651264">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647680651264" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921369" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center" timestamp="1647680651264">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647680651264" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921368" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left" timestamp="1647680651264">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647680651264" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921368" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right" timestamp="1647680651264">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647680651264" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.23.1440.808/-2560.-659.2560.1417@0.23.1440.808" timestamp="1647481921369" />
+    <state x="332" y="127" key="NewModule_or_Project.wizard" timestamp="1647396861105">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="332" y="127" key="NewModule_or_Project.wizard/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647396861105" />
+    <state x="221" y="65" key="SettingsEditor" timestamp="1647679100163">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="221" y="65" key="SettingsEditor/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647679100163" />
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1647679126988">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647679126988" />
+    <state x="378" y="62" width="683" height="729" key="find.popup" timestamp="1647678698380">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="378" y="62" width="683" height="729" key="find.popup/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647678698380" />
+    <state x="385" y="154" width="670" height="676" key="search.everywhere.popup" timestamp="1647680137748">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="385" y="154" width="670" height="676" key="search.everywhere.popup/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647680137748" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/module/RefreshBar.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/ui/ConsoleUI.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/domain/service/impl/IStockImpl.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/domain/service/impl/IStockImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

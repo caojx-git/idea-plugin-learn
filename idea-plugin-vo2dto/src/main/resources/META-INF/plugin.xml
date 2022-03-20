@@ -1,0 +1,28 @@
+<idea-plugin>
+    <id>com.caojx.learn.idea-plugin-vo2dto</id>
+    <name>vo2dto</name>
+    <vendor email="caojx_wy@163.com" url="">caojx</vendor>
+
+    <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="Vo2DtoGenerateAction" class="com.caojx.learn.idea.plugin.action.Vo2DtoGenerateAction"
+                text="Vo2DtoGenerateAction name" description="Vo2DtoGenerateAction desc" icon="/icons/logo.png">
+            <add-to-group group-id="GenerateGroup" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl K"/>
+        </action>
+    </actions>
+</idea-plugin>

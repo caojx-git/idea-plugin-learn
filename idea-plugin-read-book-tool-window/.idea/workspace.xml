@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d823e0-f30e-4df1-8a93-38f8baf6b27c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-read-book-tool-window" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-read-book-tool-window" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="idea-plugin-read-book-tool-window" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26dyiy6d7dQ4MyUXW6pbq9uTbdi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="229" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/factory" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/caojx/learn/idea/plugin/ui" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.idea-plugin-read-book-tool-window [clean]">
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="idea-plugin-read-book-tool-window [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.idea-plugin-read-book-tool-window [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d823e0-f30e-4df1-8a93-38f8baf6b27c" name="Default Changelist" comment="" />
+      <created>1647767888696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647767888696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1647768853537">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="533" y="117" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647768853537" />
+    <state x="457" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1647768517039">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="457" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647768517039" />
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647768776446">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647768776446" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1647772394938">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772394938" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1647772394937">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772394937" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1647772394937">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772394937" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1647772394938">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772394938" />
+  </component>
+</project>

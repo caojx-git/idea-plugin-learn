@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea30fbeb-403d-458c-a59c-234fd96616f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26dnOczAOgYq5AlwioKypMQ4bpu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_251" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/probe-plugin/src/main/java/com/caojx/learn/idea/plugin" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/probe-plugin/src/main/java/com/caojx/learn/idea/plugin" />
+      <recent name="$PROJECT_DIR$/probe-plugin/libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApiTest">
+    <configuration name="ApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.caojx.learn.agent.ApiTest" />
+      <module name="idea-plugin-probe.probe-agent.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.caojx.learn.agent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/probe-plugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea30fbeb-403d-458c-a59c-234fd96616f6" name="Default Changelist" comment="" />
+      <created>1647762299946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647762299946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1647765185114">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647765185114" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1647765185113">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647765185113" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1647765185112">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647765185112" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1647765185114">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647765185114" />
+    <state x="332" y="127" key="NewModule_or_Project.wizard" timestamp="1647771755552">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="332" y="127" key="NewModule_or_Project.wizard/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647771755552" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1647771760062">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647771760062" />
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1647772194012">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647772194012" />
+    <state x="97" y="40" key="new project wizard" timestamp="1647764813339">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="97" y="40" key="new project wizard/0.23.1440.807/-2560.-659.2560.1417@0.23.1440.807" timestamp="1647764813339" />
+  </component>
+</project>

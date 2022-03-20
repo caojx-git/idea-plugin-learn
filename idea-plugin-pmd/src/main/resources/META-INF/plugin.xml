@@ -1,0 +1,43 @@
+<idea-plugin>
+    <id>com.caojx.learn.idea-plugin-pmd</id>
+    <name>pmd</name>
+    <vendor email="caojx_wy@163.com" url="">caojx</vendor>
+
+    <description><![CDATA[
+      代码规范扫描服务，自动检测和提醒以及帮助修复<br>
+      <em>1. 对问题代码进行扫描，执行PMD</em>
+      <em>2. 针对扫描到的问题提供整改方案</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="183.4284"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <localInspection
+            language="JAVA" groupPath="Java"
+            groupName="X-PMD" enabledByDefault="true" level="ERROR"
+            bundle="InspectionBundle" key="replace.pseudorandom.generator.name"
+            implementationClass="com.caojx.learn.idea.plugin.rule.RandomRule"/>
+
+        <localInspection
+                language="JAVA" groupPath="Java"
+                groupName="X-PMD" enabledByDefault="true" level="ERROR"
+                bundle="InspectionBundle" key="fastjson.auto.type.name"
+                implementationClass="com.caojx.learn.idea.plugin.rule.FastJsonRule"/>
+
+        <localInspection
+                language="JAVA" groupPath="Java"
+                groupName="X-PMD" enabledByDefault="true" level="ERROR"
+                bundle="InspectionBundle" key="hardcoded.ip.name"
+                implementationClass="com.caojx.learn.idea.plugin.rule.IPRule"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
